@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "2.100",
+  "versionCode": 12,
+  "versionName": "2.200",
   "apkUrl": "https://github.com/khoaspkt/ProGPS_Update/releases/download/V2100/app-release.apk",
-  "releaseNotes": "Cải tiến giao diện toàn bộ"
+  "releaseNotes": "Đổi giao diện Day/Night tại Project"
 }
